@@ -17,7 +17,7 @@ O **DevLinks** é um projeto desenvolvido durante o programa Discover da **Rocke
 ## Como Executar o Projeto
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/maykbrito/devlinks.git
+git clone https://github.com/EduardoTCaetano/DevLinks.git
 ```
 
 ### 2. Acessar o Diretório do Projeto
